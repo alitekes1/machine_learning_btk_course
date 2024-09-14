@@ -1,6 +1,7 @@
 # Machine Learning Course on BTK Akademi
 
-This repository contains exercises and materials from the BTK Akademi Machine Learning Course. Below, you will find details about the courses, as well as links to the course materials and certifications.
+This repository contains exercises and materials from the BTK Akademi Machine Learning Course. In addition I have complete 2 project: Classification Project: [Airline Passenger Satisfaction
+](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction) and Regression Project: [Urban Air Quality and Health Impact Analysis](https://www.kaggle.com/datasets/abdullah0a/urban-air-quality-and-health-impact-dataset). I obtained dataset from Kaggle. Below, you will find details about the courses, as well as links to the course materials and certifications.
 
 ## Courses
 
